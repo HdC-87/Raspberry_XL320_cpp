@@ -6,7 +6,7 @@ Personally I use the PIXL board which is plugged on the raspberry
 It is necessary to install wiringPi first.
 
 The UART must be enabled by modifying the initial settings such as:
-- in /boot.config.txt add : <br>
+- in /boot/config.txt add at the end: <br>
     dtoverlay=pi3-miniuart-bt <br>
     core_freq=250
 - in /boot/cmdline.txt : <br>
