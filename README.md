@@ -1,7 +1,7 @@
 # Raspberry_XL320_cpp
 Raspberry_XL320_cpp is a class designed to be used with a Raspberry Pi (stretch), using the serial interface, to drive Dynamixel XL320 servomotors.
 
-Personally I use the PIXL board which is plugged on the raspberry
+Personally I use the PIXL board which can be directly plugged on the raspberry
 
 It is necessary to install wiringPi first.
 
